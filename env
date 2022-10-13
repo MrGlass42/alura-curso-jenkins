@@ -6,8 +6,8 @@ SECRET_KEY = 'r*5ltfzw-61ksdm41fuul8+hxs$86yo9%k1%k=(!@=-wv4qtyv'
 DEBUG=True
 
 # Database
-DB_NAME = "todo_dev"
-DB_USER = "devops_dev"
-DB_PASSWORD = "mestre"
-DB_HOST = "db"
+DB_NAME = "todo"
+DB_USER = "root"
+DB_PASSWORD = "root!"
+DB_HOST = "192.168.0.114"
 DB_PORT = "3309"
